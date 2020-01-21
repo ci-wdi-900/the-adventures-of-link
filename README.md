@@ -33,7 +33,13 @@ Each page after the first one will:
 * and have a link _that opens a new window/tab_ and leads to the github repo for your app.
 
 
-### Content
+### Format Guidelines
+
+* There is no minimum or maximum on the number of pages to make. Whatever feels done for the story you're telling.
+* But however many pages it ends up being, `commit` for every completed page.
+
+
+### Content Guidelines
 
 How the story progresses from that initial page is totally up to you, as is its length. There are no stretch goals here, per se; just keep making pages that expand your story!
 
