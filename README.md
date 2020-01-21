@@ -29,9 +29,12 @@ Each page after the first one will:
 * have a `<hr>` tags after the heading and after the main text, giving the sections some basic separation; 
 * have some "main text" that describes what happens once the user takes the action that got them there;
 * have at least one link (but preferably more!) that describes a possible action;
-* have a link that leads back to the first page;
-* and have a link _that opens a new window/tab_ and leads to the github repo for your app.
+* and have a link _that opens a new window/tab_ and leads to the GitHub repo for your app.
 
+Any pages COULD have, but do not HAVE TO have:
+* a link back to the first page
+* an image
+* basically whatever else you want
 
 ### Format Guidelines
 
