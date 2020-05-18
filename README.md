@@ -5,7 +5,6 @@
 
 ### Project Skills
 
-* Creating files from the command line.
 * Linking html pages together using anchor (`<a>`) tags.
 
 
@@ -23,13 +22,12 @@ What we'll be making today is a Choose Your Own Adventure story. In HTML. With l
 Our project will consist of a series of .html pages that we can link together using anchor tags.
 
 Each page after the first one will:
-* have a unique filename ending with `.html`;
-* have the same title in its `<title>` tag as every other page;
-* have, as its heading, the text of the anchor tag from the previous page that the user clicked on to get to _this_ page;
-* have a `<hr>` tags after the heading and after the main text, giving the sections some basic separation; 
-* have some "main text" that describes what happens once the user takes the action that got them there;
-* have at least one link (but preferably more!) that describes a possible action;
-* and have a link _that opens a new window/tab_ and leads to the GitHub repo for your app.
+* have a unique filename ending with `.html`.
+* have the same title in its `<title>` tag as every other page.
+* have, as its heading, the text of the anchor tag from the previous page that the user clicked on to get to _this_ page. If you look at our index.html, we have a link that says, "You take the letter out of the book." That is also the heading of letter.html, and that's the connection that should exist between every pair of linked pages.
+* have some "main text" that describes what happens once the user takes the action that got them there.
+* have at least one link (but preferably more!) that describes a possible action.
+* have a link _that opens a new window/tab_ and leads to the GitHub repo for your app.
 
 Any pages COULD have, but do not HAVE TO have:
 * a link back to the first page
